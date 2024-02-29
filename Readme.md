@@ -1,3 +1,4 @@
+https://cloudhacks.blog/2020/11/creating-kubernetes-service-accounts-and-azure-devops-service-connection/
 Create Service Account and binding it to a cluster role
 Now we have the Cluster Role created lets create the service account and bind it to a role
 
